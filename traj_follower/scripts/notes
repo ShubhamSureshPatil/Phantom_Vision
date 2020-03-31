@@ -1,0 +1,5 @@
+1) Susbcribe to the AR markers message. 
+2) Check if marker is detected. If not, given an error message that the marker was not detected. 
+3) If a marker is detected, push it into the list for plotting 
+4) This list grows over time as more and more AR tag poses get added to it. 
+5) You keep on plotting in a loop 
